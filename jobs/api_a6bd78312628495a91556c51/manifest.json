@@ -1,0 +1,22 @@
+{
+  "job_id": "api_a6bd78312628495a91556c51",
+  "mode": "zip_split",
+  "file_url": "https://free-dl13.myalphadl.com/kOPQ4f8A5rS1hk5rRV-qDg/Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 157405360,
+  "created_at_utc": "2026-05-25T17:11:25.293329+00:00",
+  "zip_folder": "jobs/api_a6bd78312628495a91556c51/zip",
+  "zip_main_file": "Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_a6bd78312628495a91556c51/zip/Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_a6bd78312628495a91556c51/zip/Rick.And.Morty.S09E01.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 63033802
+    }
+  ]
+}
